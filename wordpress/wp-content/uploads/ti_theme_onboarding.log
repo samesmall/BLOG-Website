@@ -1,0 +1,18 @@
+[22/Dec/2022:10:38:09] (I): WordPress Instance Info:
+[22/Dec/2022:10:38:09] (I): Home URL : http://localhost:8888
+[22/Dec/2022:10:38:09] (I): Site URL : http://localhost:8888
+[22/Dec/2022:10:38:09] (I): WordPress Version : 6.1.1
+[22/Dec/2022:10:38:09] (I): Onboarding Version : 1.1.30
+[22/Dec/2022:10:38:09] (I): Multisite : No
+[22/Dec/2022:10:38:09] (I): Server Info : PHP 7.4.33 Development Server
+[22/Dec/2022:10:38:09] (I): PHP Version : 7.4.33
+[22/Dec/2022:10:38:09] (I): HTTPS : No
+[22/Dec/2022:10:38:09] (I): PHP Max Execution Time : 400
+[22/Dec/2022:10:38:09] (I): PHP Max Input Vars : 1000
+[22/Dec/2022:10:38:09] (I): Max Upload Size : 6501171200
+[22/Dec/2022:10:38:09] (I): Plugins:
+[22/Dec/2022:10:38:09] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.1.6 (ThemeIsle)
+[22/Dec/2022:10:38:09] (I): [PLUGIN] Templates Patterns Collection : v1.1.30 (ThemeIsle)
+[22/Dec/2022:10:38:09] (P): Installing optimole-wp.
+[22/Dec/2022:10:38:15] (P): Activating optimole-wp.
+[22/Dec/2022:10:38:15] (S): Installed and activated plugins.
