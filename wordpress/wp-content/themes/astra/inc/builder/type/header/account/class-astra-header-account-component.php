@@ -116,6 +116,9 @@ if ( ! class_exists( 'Astra_Header_Account_Component' ) ) {
 										<li class="menu-item <?php echo esc_attr( wc_get_account_menu_item_classes( $endpoint ) ); ?>">
 											<a href="<?php echo esc_url( wc_get_account_endpoint_url( $endpoint ) ); ?>" class="menu-link"><?php echo esc_html( $item ); ?></a>
 										</li>
+										<li>
+											<p>comment</p>
+										</li>
 									<?php } ?>
 								</ul>
 							<?php
