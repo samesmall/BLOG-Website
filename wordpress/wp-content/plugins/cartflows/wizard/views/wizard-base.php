@@ -15,7 +15,7 @@ set_current_screen();
 <html <?php language_attributes(); ?>>
 	<head>
 		<meta name="viewport" content="width=device-width" />
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta charset="utf-8" />
 		<title><?php esc_html_e( 'CartFlows Setup', 'cartflows' ); ?></title>
 
 		<script type="text/javascript">

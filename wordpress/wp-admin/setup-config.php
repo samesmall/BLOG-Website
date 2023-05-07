@@ -106,7 +106,7 @@ function setup_config_display_header( $body_classes = array() ) {
 <html<?php echo $dir_attr; ?>>
 <head>
 	<meta name="viewport" content="width=device-width" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8" />
 	<meta name="robots" content="noindex,nofollow" />
 	<title><?php _e( 'WordPress &rsaquo; Setup Configuration File' ); ?></title>
 	<?php wp_admin_css( 'install', true ); ?>

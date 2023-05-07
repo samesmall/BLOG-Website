@@ -12,7 +12,7 @@ if ( false ) {
 <!DOCTYPE html>
 <html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta charset="utf-8" />
 	<title>Error: PHP is not running</title>
 </head>
 <body class="wp-core-ui">
