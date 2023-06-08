@@ -172,3 +172,12 @@ require_once ASTRA_THEME_DIR . 'inc/core/markup/class-astra-markup.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+add_filter('woocommerce_billing_fields', 'remove_billing_postcode_field');
+
+function remove_billing_postcode_field($fields) {
+    // Remove the billing postcode field
+    unset($fields['billing_postcode']);
+
+    return $fields;
+}
